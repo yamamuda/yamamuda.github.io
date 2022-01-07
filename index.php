@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
 $deger = array("ali", "ahmet", "muda", "yama");
 next($deger);
@@ -8,3 +12,5 @@ print_r ($degis);
 
 
  ?>
+</body>
+</html>
